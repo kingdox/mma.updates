@@ -1,0 +1,27 @@
+{
+    "name": "com.kingdox.mma.updates",
+    "version": "1.0.0",
+    "displayName": "Kingdox MMA.Updates",
+    "description": "Module to handle Updates in game",
+    "unity": "2020.1",
+    "keywords": [
+        "module",
+        "updates",
+        "unity"
+    ],
+    "author": {
+        "name": "Kingdox",
+        "email": "arpaxavier@gmail.com",
+        "url": "https://ch4b13r.itch.io/"
+    },
+    "hideInEditor": true,
+    "repository": {
+        "type": "git",
+        "url": "git+https://kingdox@github.com/kingdox/mma.updates.git"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://www.google.com/"
+    },
+    "homepage": "https://github.com/kingdox"
+}

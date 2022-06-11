@@ -1,0 +1,17 @@
+{
+    "name": "BASE.Updates",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1a1438df82f394c09ae3739f4e43e813",
+        "GUID:802cda87e14734b9bb05c37c9cd64a18"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
