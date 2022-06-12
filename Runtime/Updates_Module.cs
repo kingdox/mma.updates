@@ -6,16 +6,16 @@ using UnityEngine;
 #endregion
 namespace MMA.Updates
 {
-    public static class Key
+    public static partial class Key
     {
-        public const string SubscribeUpdate = "Updates_SubscribeUpdate";
+        public static string SubscribeUpdate = "Updates_SubscribeUpdate";
     }
     public static class TimeImport
     {
         public static int FrameCount => Time.frameCount;
         //public const string AddAsyncSceen = KeyData.BASE_SCENES_Request_AddAsyncScene;
     }
-    public sealed class Updates_Module : Module
+    public sealed partial class Updates_Module : Module
     {
         #region References
         private readonly Dictionary<int, Action> dic_updates = new Dictionary<int, Action>();
